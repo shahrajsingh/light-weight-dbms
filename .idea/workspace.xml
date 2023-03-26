@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b61179-f5d7-4e47-a9c4-e1324f2cf263" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication/Authentication.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication/src/Authentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonFunction/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonFunction/src/main/java/org/example/CommonFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Database/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Database/src/main/java/org/example/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/light_weight_dbms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/main/java/org/example/DbFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/src/main/java/org/example/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/Database/src/main/java/org/example/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/target/classes/org/example/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/Database/target/classes/org/example/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

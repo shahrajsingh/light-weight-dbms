@@ -2,6 +2,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 import org.example.CommonFunction;
 import org.example.Database;
+import org.example.DbFunctions;
 
 public class Main {
     private static boolean isAuthenticated = false;
@@ -40,14 +41,15 @@ public class Main {
             sc.close();
         }
 
-        Database db = new Database();
+       // Database db = new Database();
+        DbFunctions dbf = new DbFunctions();
         System.out.println("The console will now be always ready to take query inputs, type EXIT (case Sensitive) to exit program");
         String query = "";
         while(!query.equals("EXIT")){
             query = "";
             Scanner sc = new Scanner(System.in);
             query = sc.nextLine();
-            db.readQuery(query);
+            dbf.readQuery(query);
             System.out.println("<-->");
         }
     }
